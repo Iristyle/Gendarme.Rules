@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gendarme.Rules", "Gendarme.Rules.csproj", "{B386CFA4-F901-4915-8DBE-09329B0227F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Style Enforcer", "Code Style Enforcer", "{E07D0FE8-7C80-42A9-8E94-D7F51860E241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B386CFA4-F901-4915-8DBE-09329B0227F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B386CFA4-F901-4915-8DBE-09329B0227F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B386CFA4-F901-4915-8DBE-09329B0227F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B386CFA4-F901-4915-8DBE-09329B0227F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		CodeStyleEnforcer_RulesLocation = 1
+		CodeStyleEnforcer_Active = -1
+	EndGlobalSection
+EndGlobal
